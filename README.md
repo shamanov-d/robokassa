@@ -4,7 +4,7 @@
 
 пакет собран в [npm регистр](https://github.com/shamanov-d/robokassa/pkgs/npm/robokassa)
 
-для установки добавь в `/usr/yu_user/.npmrc`
+для установки добавь в `/usr/you_user/.npmrc`
 
 ```
 @shamanov-d:registry=https://npm.pkg.github.com/
